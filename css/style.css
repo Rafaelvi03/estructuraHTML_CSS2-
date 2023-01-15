@@ -1,0 +1,78 @@
+.header{
+    background-color:#00FF6D;
+    border-radius:0px 0px 10px 10px;
+    padding:15px 0px 0px 50px; 
+    height: 120px;
+    width: 100%;
+}
+.nav{
+  margin-right: 50px;
+  margin-top: 15px; 
+  height: 70px;
+}
+.imgOne{
+  background-color: #27AE60;
+  padding:20px;
+  margin: 15px 0px 0px 20px;
+}
+.aside{
+  margin:40px 0px 0px 100px ;
+  border:solid 1px;
+  width: 45%;
+  height: 500px;
+  background-color: #4F4F4F;
+}
+article{
+  padding:25px;
+  margin:40px 55px 0px 50px;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+}
+.container{
+  display: flex;
+  margin-right: 15px;
+}
+.containerTwo{
+  display: flex;
+ flex-wrap: wrap;
+ justify-content: flex-end;
+ width:max-content
+}
+.card-yellow{
+  width: 400px;
+  height: 200px;
+ margin: 40px 0px 0px 0px;
+ background-color: #F2C94C;
+border-radius:10px;
+}
+.card-orange{
+  width: 400px;
+  height: 200px;
+ margin: 40px 0px 0px 55px;
+ background-color: #F2994A;
+ border-radius:10px;
+ 
+}
+.card-red{
+  width: 400px;
+  height: 200px;
+ margin: 40px 0px 0px 55px;
+ background-color: #E95656;
+ border-radius:10px;
+}
+
+.card-violet{
+  width: 400px;
+  height: 200px;
+ margin: 40px 0px 0px 55px;
+ background-color: #BB6BD9;
+ border-radius:10px;
+}
+
+.footer{
+    padding:25px 0px 25px 35px;
+    margin-top:35px ;
+    height: 100px;
+    background-color:#35EB82;
+     
+}
